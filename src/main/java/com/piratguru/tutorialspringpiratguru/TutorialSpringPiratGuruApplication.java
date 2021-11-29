@@ -3,6 +3,8 @@ package com.piratguru.tutorialspringpiratguru;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+
 @SpringBootApplication
 public class TutorialSpringPiratGuruApplication {
 
